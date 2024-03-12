@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### ¡Hola! 👋
+Mi nombre es Brayan y actualmente estoy estudiando Ingenieria de Software en la Universidad de Cartagena
 <!--
 **brynrm/brynrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
